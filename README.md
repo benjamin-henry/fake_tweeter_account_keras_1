@@ -1,13 +1,15 @@
 # fake_tweeter_account_keras_1
 
+# Info
 From https://github.com/NikhilCodes/Fake-Twitter-Account-Detection-Keras and https://paperswithcode.com/paper/fame-for-sale-efficient-detection-of-fake/review/
 
 Datasets used (cleaned in https://github.com/NikhilCodes/Fake-Twitter-Account-Detection-Keras):
 - Elezioni2013
 - Intertwitter
 
-# legit accounts : 1481 / # fake accounts  : 1337
+legit accounts : 1481 / fake accounts  : 1337
 
+# results
 train_and_eval_1:
 - 64% of dataset for training data
 - 16% of dataset for validation data
