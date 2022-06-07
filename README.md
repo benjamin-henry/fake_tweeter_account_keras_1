@@ -9,7 +9,7 @@ Datasets used (cleaned in https://github.com/NikhilCodes/Fake-Twitter-Account-De
 - Intertwitter
 
 legit accounts : 1481 \
-fake accounts  : 1337 \
+fake accounts  : 1337 ;) \
 total : 2818
 
 Used to build training data:
