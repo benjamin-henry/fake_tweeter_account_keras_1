@@ -19,7 +19,6 @@ train_and_eval_1:
 - confusion matrix : \
      legit     [295 ,   2] \
      fake      [  2 , 266] \
-                    legit, fake
 - model: ".model/classifier_1.h5"
 
 train_and_eval_2 (based on https://github.com/NikhilCodes/Fake-Twitter-Account-Detection-Keras/blob/master/trainer_and_solver.ipynb):
@@ -27,8 +26,7 @@ train_and_eval_2 (based on https://github.com/NikhilCodes/Fake-Twitter-Account-D
 - 24% of dataset for validation data
 - loss : 0.037
 - accuracy : 99.85%
-- confusion matrix :
-    legit  [358 ,   0],
-    fake   [  1 , 318]
-           legit, fake
+- confusion matrix : \
+     legit  [358 ,   0] \
+     fake   [  1 , 318] \
 - model: ".model/classifier_2.h5"
