@@ -6,8 +6,7 @@ Datasets used (cleaned in https://github.com/NikhilCodes/Fake-Twitter-Account-De
 - Elezioni2013
 - Intertwitter
 
-number of legit accounts : 1481
-number of fake accounts  : 1337
+# legit accounts : 1481 / # fake accounts  : 1337
 
 train_and_eval_1:
 - 64% of dataset for training data
