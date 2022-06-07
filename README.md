@@ -17,8 +17,8 @@ train_and_eval_1:
 - test loss : 0.017
 - test accuracy : 99.29%
 - confusion matrix :
-    legit  [295 ,   2],\n
-    fake   [  2 , 266]
+    legit  [295 ,   2]\
+    fake   [  2 , 266]\
            legit, fake
 - model: ".model/classifier_1.h5"
 
