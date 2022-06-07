@@ -3,6 +3,7 @@
 # Info
 From https://github.com/NikhilCodes/Fake-Twitter-Account-Detection-Keras and https://paperswithcode.com/paper/fame-for-sale-efficient-detection-of-fake/review/
 
+# Data
 Datasets used (cleaned in https://github.com/NikhilCodes/Fake-Twitter-Account-Detection-Keras):
 - Elezioni2013
 - Intertwitter
@@ -11,7 +12,6 @@ legit accounts : 1481 \
 fake accounts  : 1337 \
 total : 2818
 
-# results
 Used to build training data:
 - user has an url ? 1 if true, else -1
 - user has time zone ? 1 if true, else -1
@@ -21,6 +21,7 @@ Used to build training data:
 - is profile in an other profile favourites ? 1 if true, else -1
 - is profile listed ? 1 if true, else -1
 
+# results
 train_and_eval_1:
 - 64% of dataset for training data
 - 16% of dataset for validation data
