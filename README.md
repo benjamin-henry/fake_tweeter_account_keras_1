@@ -17,7 +17,7 @@ Used to build training data:
 - user has time zone ? 1 if true, else -1
 - user's profile is default profile ? 1 if true, else -1
 - profile has a description ? 1 if true, else -1
-- friends over folllowers ratio 
+- friends over followers ratio 
 - is profile in an other profile favourites ? 1 if true, else -1
 - is profile listed ? 1 if true, else -1
 
