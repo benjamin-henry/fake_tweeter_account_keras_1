@@ -19,7 +19,7 @@ train_and_eval_1:
 - confusion matrix : \
      legit     [295 ,   2] \
      fake      [  2 , 266] \
-               legit, fake
+                    legit, fake
 - model: ".model/classifier_1.h5"
 
 train_and_eval_2 (based on https://github.com/NikhilCodes/Fake-Twitter-Account-Detection-Keras/blob/master/trainer_and_solver.ipynb):
