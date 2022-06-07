@@ -12,6 +12,15 @@ fake accounts  : 1337 \
 total : 2818
 
 # results
+Used to build training data:
+- user has an url ? 1 if true, else -1
+- user has time zone ? 1 if true, else -1
+- user's profile is default profile ? 1 if true, else -1
+- profile has a description ? 1 if true, else -1
+- friends over folllowers ratio 
+- is profile in an other profile favourites ? 1 if true, else -1
+- is profile listed ? 1 if true, else -1
+
 train_and_eval_1:
 - 64% of dataset for training data
 - 16% of dataset for validation data
