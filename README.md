@@ -21,7 +21,7 @@ Used to build training data:
 - is profile in an other profile favourites ? 1 if true, else -1
 - is profile listed ? 1 if true, else -1
 
-# results
+# Results
 train_and_eval_1:
 - 64% of dataset for training data
 - 16% of dataset for validation data
