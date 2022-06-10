@@ -1,5 +1,8 @@
 # fake_tweeter_account_keras_1
 
+# Warning
+Please, do not use it for real purposes. I mean I don't know if I would use it if I wanted to buy the blue bird. 
+
 # Info
 From https://github.com/NikhilCodes/Fake-Twitter-Account-Detection-Keras and https://paperswithcode.com/paper/fame-for-sale-efficient-detection-of-fake/review/
 
