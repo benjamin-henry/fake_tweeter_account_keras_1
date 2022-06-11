@@ -28,7 +28,7 @@ train_and_eval_1:
 - 64% of dataset for training data
 - 16% of dataset for validation data
 - 20% of dataset for test data (not seen during training)
-- test loss : 0.017
+- test loss : 0.083
 - test accuracy : 99.11%
 - confusion matrix : \
      legit     [294 ,   3] \
